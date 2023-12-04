@@ -1,0 +1,14 @@
+E:\severboss2\obj\Debug\net7.0\severboss2.GeneratedMSBuildEditorConfig.editorconfig
+E:\severboss2\obj\Debug\net7.0\severboss2.AssemblyInfoInputs.cache
+E:\severboss2\obj\Debug\net7.0\severboss2.AssemblyInfo.cs
+E:\severboss2\obj\Debug\net7.0\severboss2.csproj.CoreCompileInputs.cache
+E:\severboss2\bin\Debug\net7.0\severboss2.exe
+E:\severboss2\bin\Debug\net7.0\severboss2.deps.json
+E:\severboss2\bin\Debug\net7.0\severboss2.runtimeconfig.json
+E:\severboss2\bin\Debug\net7.0\severboss2.dll
+E:\severboss2\bin\Debug\net7.0\severboss2.pdb
+E:\severboss2\obj\Debug\net7.0\severboss2.dll
+E:\severboss2\obj\Debug\net7.0\refint\severboss2.dll
+E:\severboss2\obj\Debug\net7.0\severboss2.pdb
+E:\severboss2\obj\Debug\net7.0\severboss2.genruntimeconfig.cache
+E:\severboss2\obj\Debug\net7.0\ref\severboss2.dll
